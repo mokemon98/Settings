@@ -1,0 +1,7 @@
+[
+    { "keys": ["ctrl+left"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+    { "keys": ["ctrl+right"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+    { "keys": ["ctrl+shift+c"], "command": "goto_definition" },
+    { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
+    { "keys": ["ctrl+shift+x"], "command": "jump_back" }
+]

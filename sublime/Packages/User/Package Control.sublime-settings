@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Abacus",
+		"Alignment",
+		"All Autocomplete",
+		"Anaconda",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"EncodingHelper",
+		"GitGutter",
+		"GlassIt",
+		"IMESupport",
+		"More Layouts",
+		"OmniSharp",
+		"Package Control",
+		"PackageDev",
+		"Python Improved",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Sublimerge 3",
+		"Theme - Flatland"
+	]
+}

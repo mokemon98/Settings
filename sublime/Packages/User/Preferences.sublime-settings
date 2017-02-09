@@ -1,0 +1,31 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"build_env":
+	{
+		"PATH": "C:\\Python27\\;C:\\Program Files (x86)\\LLVM\\bin\\"
+	},
+	"color_scheme": "Packages/User/Flatland Monokai (SL) (SublimePythonIDE).tmTheme",
+	"draw_white_space": "all",
+	"font_size": 10,
+	"highlight_line": true,
+	"http_proxy": "proxy.kanto.sony.co.jp:10080",
+	"https_proxy": "proxy.kanto.sony.co.jp:10080",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_top": 5,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"sublimelinter_executable_map":
+	{
+		"c": "C:/Program Files/nodejs/node.exe",
+		"css": "C:/Program Files/nodejs/node.exe",
+		"javascript": "C:/Program Files/nodejs/node.exe"
+	},
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
